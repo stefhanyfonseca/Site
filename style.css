@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+width: 10000px;
+height: 187px;
+left: 252px;
+top: 0px;
+
+background: #DF2D8D;
+}
+.costao {
+  position: absolute;
+width: 263px;
+height: 186px;
+left: -12px;
+top: 1px;
+
+background: url(image.png);
+}
+
+.presidente {
+  position: absolute;
+width: 1188px;
+height: 52px;
+left: 50px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.ste {
+  position: absolute;
+width: 421px;
+height: 361px;
+left: 57px;
+top: 386px;
+
+background: url(ste.jpg);
+}
+
+.nome {
+  position: absolute;
+width: 734px;
+height: 290px;
+left: 551px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
+
+.idade {
+  position: absolute;
+width: 734px;
+height: 290px;
+left: 551px;
+top: 525px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
+
+.ensino {
+  position: absolute;
+width: 734px;
+height: 290px;
+left: 551px;
+top: 664px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
